@@ -1,4 +1,4 @@
-let myStr = "dit is een variabele van het datatype string"; //dit is een variabele van het datatype string, waarom?  _______omdat het een lettertype is_______ vul je antwoord in op de lijn
+let myStr = "dit is een variabele van het datatype string"; //dit is een variabele van het datatype string, waarom?  _______omdat het tussen quotes is_______ vul je antwoord in op de lijn
 let myInt = 3; //dit is een variabele van het datatype ____________ omdat het een nummer is ____________ vul je antwoorden in op de lijn
 
 //Waarom staat er let voor de variabelen? ______  let declareert de variabele______ vul je antwoord in op de lijn
